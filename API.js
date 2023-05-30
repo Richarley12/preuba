@@ -20,5 +20,4 @@ export class API {
     conectarConBD(){
         establecerConexion()
     }
-
 }
